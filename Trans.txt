@@ -1,0 +1,26 @@
+LOAN TRANSACTION SUMMARY
+Reference ID: 9766624147
+MP Code: 28613342
+Date: २०८२ फागुन ७, बिहिवार (February 19, 2026)
+Time: 12:58 PM
+
+Purpose:
+Loan provided for foreign employment processing expenses.
+Interest Rate:
+20% per annum
+
+Lender (Source Account):
+Account Holder: Bishesh Bhusal
+Bank: Garima Bikas Bank Limited
+Account Type: Garima 5 in 1 Bachat Khata
+Account No.: 03211800864990000002
+
+Facilitated Through:
+Gita Bhattarai
+
+Beneficiary (Receiving Account):
+Account Holder: Dhana Bhandari
+Bank: Garima Bikas Bank Limited
+Account Type: Garima 5 in 1 Bachat Khata
+Account No.: 00211801243352000001
+(Status: Primary Account)
